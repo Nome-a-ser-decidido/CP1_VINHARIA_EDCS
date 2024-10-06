@@ -14,4 +14,6 @@ O projeto pode ser acessado pelo link https://www.tinkercad.com/things/giGfnG08E
 <li> 1 LCD 16x2 </li>
 
 <h2> Sistema </h2>
-O código lê o valor de luminosidade que está sendo exercida no Fotorresistor, fazendo com que, dependendo da quantidade de luz sendo emitida, irá acionar um LED, onde quando acionado o LED vermelho, quer dizer que tem muita luminosidade na adega, o LED amarelo, passa uma sensação de cuidado, e o LED verde quer dizer que está tudo funcionando perfeitamente bem
+O código lê o valor de luminosidade que está sendo exercida no Fotorresistor, fazendo com que, dependendo da quantidade de luz sendo emitida, irá acionar um LED, onde quando acionado o LED vermelho, quer dizer que tem muita luminosidade na adega, o LED amarelo, passa uma sensação de cuidado, e o LED verde quer dizer que está tudo funcionando perfeitamente bem.
+
+É necessário configurar a função map(), pois pode haver uma variação de luminosidade dependendo de qual fotorresistor está sendo utilizado
