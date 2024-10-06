@@ -17,3 +17,7 @@ O projeto pode ser acessado pelo link https://www.tinkercad.com/things/giGfnG08E
 O código lê o valor de luminosidade que está sendo exercida no Fotorresistor, fazendo com que, dependendo da quantidade de luz sendo emitida, irá acionar um LED, onde quando acionado o LED vermelho, quer dizer que tem muita luminosidade na adega, o LED amarelo, passa uma sensação de cuidado, e o LED verde quer dizer que está tudo funcionando perfeitamente bem.
 
 É necessário configurar a função map(), pois pode haver uma variação de luminosidade dependendo de qual fotorresistor está sendo utilizado
+
+<h2> Visualização </h2>
+
+![Copy of Teste de luminosidade com display](https://github.com/user-attachments/assets/1b679a9c-2d4b-46fa-88cf-5df584725407)
